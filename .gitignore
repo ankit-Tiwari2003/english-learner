@@ -1,0 +1,8 @@
+# Ignore node_modules in the api folder
+api/node_modules/
+
+# Other common ignores
+.env
+dist/
+*.log
+*.tmp
